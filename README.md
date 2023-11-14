@@ -3,6 +3,8 @@
 
 A repository just to document my pivot SQL Query.
 <br>
+This query mount the months columns according to search's date
+<br>
 All the table names and columns are fictitious, but i have this query running on production
 <br>
 
