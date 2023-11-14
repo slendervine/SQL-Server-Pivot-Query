@@ -5,8 +5,10 @@ A repository just to document my pivot SQL Query.
 <br>
 All the table names and columns are fictitious, but i have this query running on production
 <br>
+
 Check Query_Pivot.sql to see how the Query was made
-<br>
+
+
 
 
 Query result example:
