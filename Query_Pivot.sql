@@ -49,7 +49,7 @@
 								SELECT   U.nome 
 										,C.fantasia 
 										,C.ni 
-										,SUM(CAST(netbrl - overbrl AS DECIMAL(32,2))) AS valorTotal 
+										,SUM(CAST(liquidoBR - comissBR AS DECIMAL(32,2))) AS valorTotal 
 										,COUNT(V.id) AS qtdevenda 
 										,DATENAME(MONTH, V.dataVenda) AS descMesVenda 
 								FROM usuarios		  U
